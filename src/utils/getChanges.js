@@ -59,7 +59,7 @@ export default function getChanges(oldStr, newStr) {
 /*
   Example for "Apple" -> "Ape"
 
-  expected inProgressStr = "Apple"
+  expected inProgressStr = "App"
 
   expected changes = [
     {
